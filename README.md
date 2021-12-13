@@ -1,2 +1,3 @@
 yeaa i was just playing with the pygame module
-... got bored of it
+i think i hurt my self in a way
+
